@@ -4,6 +4,12 @@ A clean, modern, and responsive resume/CV template built with **React** and **Vi
 
 ---
 
+## 📸Screenshot
+
+<img width="2880" height="3454" alt="localhost_5173_" src="https://github.com/user-attachments/assets/87d9d953-d53b-456c-b7db-1fb72957afb0" />
+
+---
+
 ## 🚀 Features
 
 - 🔹 **Responsive layout** — works beautifully across devices (desktop, tablet, mobile)  
