@@ -120,4 +120,4 @@ Happy coding & customizing! 🎨
 
 ---
 
-👨🏻‍💻 From mohdkamran-khan
+👨🏻‍💻 From [mohdkamran-khan](https://github.com/mohdkamran-khan)
